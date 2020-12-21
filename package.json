@@ -1,0 +1,22 @@
+{
+  "name": "food-order-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxwellKwesiEhiawey/Food-order-app.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxwellKwesiEhiawey/Food-order-app/issues"
+  },
+  "homepage": "https://github.com/MaxwellKwesiEhiawey/Food-order-app#readme",
+  "dependencies": {
+    "firebase-admin": "^9.4.2"
+  }
+}
